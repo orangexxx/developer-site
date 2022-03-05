@@ -52,4 +52,3 @@
 ## 联系我们
 * 我们也维护了一个 [开发者论坛 (语雀讨论区)](https://www.yuque.com/yida/topics)，欢迎对低代码领域有兴趣的同学多多交流；
 * 关于开发者中心的任何问题，包括示例缺失、有误及体验问题，欢迎通过 [官方渠道](https://www.aliwork.com/o/dev_feedback) 进行反馈;
-
